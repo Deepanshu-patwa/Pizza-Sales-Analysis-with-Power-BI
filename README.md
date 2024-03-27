@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on analyzing pizza sales data using Power BI to derive insights into business performance and customer preferences. Through data analysis and visualization, various key performance indicators (KPIs) and trends are explored to help stakeholders make informed decisions.
 
-### RaW Data Image 
+### RAW Data Image 
 ![image](https://github.com/Deepanshu-patwa/Pizza-Sales-Analysis-with-Power-BI/assets/164983703/8cac47e7-79e0-45b6-b10d-156d36d932ce)
 
 ## Problem Statement
